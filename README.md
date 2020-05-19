@@ -1,2 +1,4 @@
 # Lyrics-Project
-Find your favorite song lyrics
+Find your lyrics songs
+
+Simple project by Rafael
